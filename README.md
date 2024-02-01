@@ -2,7 +2,7 @@
 
 - 💻 A Javascript Developer from Belo Horizonte, Brasil;
 
-- 🚀 Javascript, Typescript, Node and ReactJS 
+- 🚀 Javascript, Typescript, Node, ReactJS, React Native
 
 - ☕ Java Spring / Springboot
 
